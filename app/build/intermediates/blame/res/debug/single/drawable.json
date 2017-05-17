@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\suzuyabg.png",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\suzuyabg.png"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normalimgbutton.png",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\normalimgbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg2.png",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kancolle_logo.png",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\kancolle_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brokenimgbutton.png",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\brokenimgbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shipdata.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable\\shipdata.jpg"
+    }
+]

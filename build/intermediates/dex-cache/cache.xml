@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TohmaMiyuki\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\TohmaMiyuki\StudioProjects\KanColleAtlas\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f7ab73423c370b6dafc2f73c9a19d554d261919a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TohmaMiyuki\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\TohmaMiyuki\StudioProjects\KanColleAtlas\app\build\intermediates\pre-dexed\debug\gson-2.5_fa23372467f03eb760f021e116c27be2d82a90cc.jar" />
+    </item>
+
+</items>

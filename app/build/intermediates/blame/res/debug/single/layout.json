@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shiptype.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\shiptype.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipclassalone.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\shipclassalone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\normalimg.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\normalimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shiptypealone.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\shiptypealone.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\brokenimg.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\brokenimg.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipname.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\shipname.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shipclass.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\shipclass.xml"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
