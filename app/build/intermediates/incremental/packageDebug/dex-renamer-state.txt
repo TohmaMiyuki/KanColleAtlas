@@ -1,4 +1,4 @@
-#Wed May 17 19:23:55 CST 2017
-base.0=C\:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu May 18 08:57:40 CST 2017
+base.0=C\:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

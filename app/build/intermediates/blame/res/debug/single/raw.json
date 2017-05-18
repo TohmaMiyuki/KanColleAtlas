@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shipdata.txt",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\raw\\shipdata.txt"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\raw\\shipdata.txt",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\raw\\shipdata.txt"
     }

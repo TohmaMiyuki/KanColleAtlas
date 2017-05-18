@@ -10,7 +10,7 @@ import android.widget.ImageView;
 public class BrokenImgActivity extends Activity {
 	
 	private ImageButton broken;
-	Intent intent;
+	Intent it;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +26,7 @@ public class BrokenImgActivity extends Activity {
 		broken.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View arg0) {
-				BrokenImgActivity.this.setResult(RESULT_OK, intent);
+				BrokenImgActivity.this.setResult(RESULT_OK, it);
 				BrokenImgActivity.this.finish();
 
 			}

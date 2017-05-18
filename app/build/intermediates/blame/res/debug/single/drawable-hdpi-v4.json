@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuikaku.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\zuikaku.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akatsuki2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akatsuki2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bismarck3.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\bismarck3.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i401.jpg",
@@ -20,16 +20,20 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yamato.jpg"
     },
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yukikaze.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yukikaze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tama.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tama.jpg"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\musashi.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\musashi.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shokaku.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\shokaku.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chitose.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chitose.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatsuharu2.jpg",
@@ -40,64 +44,76 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kako2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abukuma2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\abukuma2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aoba.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\aoba.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ayanami2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ayanami2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atago.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\atago.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akagi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akagi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chikuma2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chikuma2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\souryuu2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\souryuu2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\houshou.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\houshou.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akashi.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akashi.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suzuya.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\suzuya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jintsuu2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\jintsuu2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amagi.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\amagi.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i8.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i8.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akitsushima.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akitsushima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\murakumo2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\murakumo2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ooi2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ooi2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katsuragi.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katsuragi.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hiyou.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hiyou.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bep.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\bep.jpg"
     },
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuudaichi2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yuudaichi2.jpg"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ooyodo.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ooyodo.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katori.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katori.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myoukou2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\myoukou2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chokai2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chokai2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atago.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\atago.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chiyoda.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chiyoda.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shouhou.jpg",
@@ -106,14 +122,6 @@
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tama.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tama.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unryuu.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\unryuu.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyuuga.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hyuuga.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuihou.jpg",
@@ -128,6 +136,18 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\fusou2.jpg"
     },
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\italia.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\italia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nagato.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nagato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abukuma2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\abukuma2.jpg"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hiryuu2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hiryuu2.jpg"
     },
@@ -136,16 +156,16 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akitsumaru.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tone2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tone2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nagato.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nagato.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nagara.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nagara.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\naka2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\naka2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mikuma.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\mikuma.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ise.jpg",
@@ -156,20 +176,384 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nagara.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roma.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\roma.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jintsuu2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\jintsuu2.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kiso2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kiso2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maruyu.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\maruyu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kinugasa2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kinugasa2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mogami.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\mogami.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haguro2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\haguro2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maya2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\maya2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kongo2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kongo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i58.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i58.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unryuu.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\unryuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katori.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katori.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hie2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hie2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tenryuu.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tenryuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\takao.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\takao.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ro500.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ro500.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akitsumaru.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akitsumaru.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chikuma2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chikuma2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sakawa.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\sakawa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ashigara2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ashigara2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fubuki2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\fubuki2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kumano.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kumano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kirishima2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kirishima2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ryuujou2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ryuujou2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akatsuki2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akatsuki2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i168.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i168.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sakawa.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\sakawa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yura.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yura.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\isuzu2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\isuzu2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\suzuya.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\suzuya.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ise.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ise.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hiyou.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hiyou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noshiro.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\noshiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myoukou2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\myoukou2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aoba.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\aoba.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bep.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\bep.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i401.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i401.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatsushimo2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hatsushimo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yahagi.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yahagi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yamashiro2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yamashiro2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ushio2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ushio2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ayanami2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ayanami2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mutsu.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\mutsu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kongo2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kongo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fubuki2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\fubuki2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haguro2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\haguro2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatsushimo2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hatsushimo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chiyoda.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chiyoda.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kinu.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kinu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tenryuu.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tenryuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u511.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\u511.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimakaze.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\shimakaze.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hiryuu2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hiryuu2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuikaku.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\zuikaku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ushio2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ushio2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuihou.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\zuihou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yahagi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yahagi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shigure2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\shigure2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chitose.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chitose.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fusou2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\fusou2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\furutaka2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\furutaka2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abukuma2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\abukuma2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ooyodo.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ooyodo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\natori.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\natori.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ayanami2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ayanami2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akashi.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akashi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i8.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agano.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\agano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kuma.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kuma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i19.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i19.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katsuragi.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katsuragi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yamato.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yamato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katori.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katori.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i8.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chokai2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chokai2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\isuzu2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\isuzu2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kako2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kako2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atago.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\atago.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kumano.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kumano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maruyu.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\maruyu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kaga.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kaga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unryuu.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\unryuu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shokaku.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\shokaku.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\naka2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\naka2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuubari.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yuubari.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyuuga.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hyuuga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haruna2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\haruna2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taihou.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\taihou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noshiro.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\noshiro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kirishima2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kirishima2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\musashi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\musashi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tone2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tone2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nagato.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nagato.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ashigara2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ashigara2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roma.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\roma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i58.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i58.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jintsuu2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\jintsuu2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mogami.jpg",
@@ -180,12 +564,16 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\maya2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kinugasa2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kinugasa2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yamashiro2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yamashiro2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haguro2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\haguro2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tone2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tone2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kiso2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kiso2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mikuma.jpg",
@@ -208,64 +596,60 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\haruna2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i58.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i58.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akitsushima.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akitsushima.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\houshou.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\houshou.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kaga.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kaga.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hie2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hie2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chitose.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chitose.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\takao.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\takao.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ro500.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ro500.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chikuma2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chikuma2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatsuharu2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hatsuharu2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yukikaze.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yukikaze.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sakawa.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\sakawa.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ashigara2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ashigara2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kumano.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kumano.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyuuga.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hyuuga.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kuma.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kuma.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kirishima2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kirishima2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\takao.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\takao.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taihou.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\taihou.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ryuujou2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ryuujou2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\roma.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\roma.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\katsuragi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\katsuragi.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\furutaka2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\furutaka2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\junyou2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\junyou2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\natori.jpg",
@@ -276,8 +660,12 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\italia.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i168.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i168.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taigei.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\taigei.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prinz_eugen.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\prinz_eugen.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shimakaze.jpg",
@@ -288,111 +676,119 @@
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kitakami2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\murakumo2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\murakumo2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zuikaku.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\zuikaku.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yura.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yura.jpg"
+        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\murakumo2.jpg",
+        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\murakumo2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akagi.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akagi.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\isuzu2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\isuzu2.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bismarck3.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\bismarck3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amagi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\amagi.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\agano.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\agano.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hiyou.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hiyou.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\akashi.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\akashi.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\noshiro.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\noshiro.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ooi2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ooi2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\myoukou2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\myoukou2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aoba.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\aoba.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yura.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yura.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kinu.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kinu.jpg"
     },
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hie2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hie2.jpg"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\junyou2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\junyou2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yamashiro2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yamashiro2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\i168.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\i168.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yahagi.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yahagi.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kinugasa2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kinugasa2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuubari.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yuubari.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ushio2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ushio2.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\taigei.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\taigei.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kitakami2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kitakami2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\u511.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\u511.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kongo2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\kongo2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ro500.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ro500.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sendai2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\sendai2.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuudaichi2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\yuudaichi2.jpg"
     },
     {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ryuujou2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\ryuujou2.jpg"
+    },
+    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nachi2.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nachi2.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fubuki2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\fubuki2.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chokai2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chokai2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tatsuta.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tatsuta.jpg"
     },
     {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mutsu.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\mutsu.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hatsushimo2.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\hatsushimo2.jpg"
-    },
-    {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chiyoda.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\chiyoda.jpg"
-    },
-    {
         "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\prinz_eugen.jpg",
         "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\prinz_eugen.jpg"
     },
     {
-        "merged": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tenryuu.jpg",
-        "source": "C:\\Users\\TohmaMiyuki\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\tenryuu.jpg"
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shouhou.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\shouhou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nachi2.jpg",
+        "source": "C:\\Users\\TM\\StudioProjects\\KanColleAtlas\\app\\src\\main\\res\\drawable-hdpi\\nachi2.jpg"
     }
 ]

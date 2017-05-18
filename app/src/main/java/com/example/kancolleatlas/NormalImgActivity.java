@@ -10,7 +10,7 @@ import android.widget.ImageView;
 public class NormalImgActivity extends Activity {
 	
 	private ImageButton normal;
-	Intent intent;
+	Intent it;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -26,7 +26,7 @@ public class NormalImgActivity extends Activity {
 		normal.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View arg0) {
-				NormalImgActivity.this.setResult(RESULT_OK, intent);
+				NormalImgActivity.this.setResult(RESULT_OK, it);
 				NormalImgActivity.this.finish();
 
 			}
